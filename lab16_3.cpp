@@ -15,5 +15,5 @@ int main(){
 	cout << "Address of the highest value in array B is " << &pb << "\n";
 	cout << "The highest value in array B is "<< pb << "\n";
 
-	return 0;
+return 0;
 }
