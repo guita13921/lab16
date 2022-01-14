@@ -32,5 +32,5 @@ void shuffle(int &a,int &b,int &c,int &d){
 	d = x[rand()%4];
 		while(d == a or d == b or d == c){
 			d = x[rand()%4];
-		}
+		 }
 }
